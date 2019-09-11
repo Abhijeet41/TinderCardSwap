@@ -1,0 +1,62 @@
+[
+  {
+    "url": "beershampoo.jpg",
+    "name": "beer shampoo",
+    "price": "80rs",
+    "description" :"Improve the lustre and quality of the hair.\nBeer helps control dry scalp and removes dandruff. ...\nBeer contains proteins and vitamins, so they help to strengthen,smoothen the hairs and improve the quality of hair.\nEasily removes oil from the hair."
+  },
+  {
+    "url": "garlic.png",
+    "name": "Garlic",
+    "price": "80rs",
+    "description" :"Garlic Contains Compounds With Potent Medicinal Properties. ...\nGarlic Is Highly Nutritious But Has Very Few Calories. ..."
+  },
+  {
+    "url": "honey.jpg",
+    "name": "Honey",
+    "price": "30rs",
+    "description" :"Burns. Honey has been used as a salve to heal burns and prevent infections for thousands of years, according to the Mayo Clinic. ..."
+  },
+  {
+    "url": "trimmer.jpg",
+    "name": "trimmer",
+    "price": "40rs",
+    "description" :"#1 A trimmer is soft on your skin unlike a razor.\n#2 A trimmer allows you to adjust the length of your facial hair."
+  },
+  {
+    "url": "wax.jpeg",
+    "name": "wax",
+    "price": "50rs",
+    "description" :"Candles. Paraffin wax candles were first used to replace tallow candles because they burn cleaner and more reliably. ...\nWaterproofing. Paraffin is naturally water resistant. .."
+  },
+  {
+    "url": "gillette.png",
+    "name": "gillette",
+    "price": "10rs",
+    "description" :"Fusion® ProGlide® Manual Razor with Flexball TechnologyTM (2029) ...\nMACH3® Turbo Razor. (87) ..."
+  },
+  {
+    "url": "Deodorant.png",
+    "name": "Deodorant",
+    "price": "90rs",
+    "description" :"Avoid a potential breast cancer risk. ...\nKeep your underarm pores clear. ..."
+  },
+  {
+    "url": "hairdryer.png",
+    "name": "hairdryer",
+    "price": "150rs",
+    "description" :"Decreased drying time: Thick, long hair would normally take forever to dry. ..."
+  },
+  {
+    "url": "nescafe.png",
+    "name": "nescafe",
+    "price": "80rs",
+    "description" :"Increase your fiber intake. ...\nProtection against cirrhosis of the liver. ...\nLowered risk of Type 2 Diabetes. ."
+  },
+  {
+    "url": "tupperware.jpg",
+    "name": "tupperware",
+    "price": "250rs",
+    "description" :"Most of the Tupperware products are durable and reusable which reduces environmental wastages and pollution. "
+  }
+]
